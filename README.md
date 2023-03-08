@@ -31,7 +31,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author : Harun Bekri:
 
-* ** Installation at 👉🏻 (https://github.com/hariyebk/alx-higher-level-programming)>
+* ** Installation at 👉🏻 https://github.com/hariyebk/alx-higher-level-programming
 
 ## Acknowledgements :pray:
 
