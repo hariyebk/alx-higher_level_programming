@@ -1,0 +1,19 @@
+#!/bin/bash
+echo " Do you want to make this file executable ? (y/n) "
+read want
+if [ $want == "y" ]; then
+	echo "File name ? "
+	read filename
+	chmod u+x $filename
+        echo "write your commit message"
+        read msg
+        git add .
+        git commit -m '$msg'
+        git push
+else
+	echo "write your commit message"
+        read msg
+        git add .
+        git commit -m '$msg'
+        git push
+fi
