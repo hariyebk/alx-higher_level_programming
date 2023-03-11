@@ -1,4 +1,4 @@
-# Higher-level programming - Python, Databases & JavaScript
+# Higher-level programming 💻
 
 This repository contains programs written for the higher-level programming
 track at Alx School. In these projects, which began occurring in month
