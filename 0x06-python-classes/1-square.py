@@ -1,11 +1,8 @@
 #!/usr/bin/python3
-class Square:
-    """Class Square that defines a square object
-    """
-    def __init__(self, size):
-        """Initialize method that stores the size of the square
 
-        Args:
-            param1 (int): size of the square
-        """
-        self.__size = size
+"""python3 -c 'print(__import__("my_module").__doc__)'"""
+
+
+class Square:
+    """python3 -c 'print(__import__("my_module").MyClass.__doc__)'"""
+    pass
